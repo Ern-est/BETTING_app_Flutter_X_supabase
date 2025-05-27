@@ -1,4 +1,4 @@
-# BetMate 🎯
+# BetMate 
 
 A simple Flutter betting app powered by Supabase. Users can place bets, track their bet history, and manage their account securely.
 
