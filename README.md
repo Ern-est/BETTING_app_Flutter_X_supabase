@@ -43,6 +43,8 @@ Made with ❤️ using Flutter & Supabase
 
 ![betting4](https://github.com/user-attachments/assets/1d3d6a16-968a-4fa2-b419-ce043f713fa4)
 
+![betting6](https://github.com/user-attachments/assets/e00c3d06-e7a3-43b7-9681-d7c90dde4192)
+
 ![betting3](https://github.com/user-attachments/assets/c35b2266-fdc6-4e9c-8203-916f92ffcb3a)
 
 ![betting2](https://github.com/user-attachments/assets/68de28c2-6126-4d45-9828-81f882442144)
